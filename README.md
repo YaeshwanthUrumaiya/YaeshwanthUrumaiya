@@ -6,7 +6,8 @@ Here's my stats:
 
 [![YaeshwanthUrumaiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaeshwanthUrumaiya&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaeshwanthUrumaiya&hide_progress=true&count-private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaeshwanthUrumaiya&hide_progress=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaeshwanthUrumaiya&count_private=true)
 
 An avid coder; Always up for connecting with people! 
 
