@@ -8,6 +8,10 @@ Here's my stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaeshwanthUrumaiya&hide_progress=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Arribass's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaeshwanthUrumaiya&count_private=true)](https://github.com/arribass/github-readme-stats)
+
+[![Arribass Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaeshwanthUrumaiya)](https://github.com/arribass/github-readme-stats)
+
 
 An avid coder; Always up for connecting with people! 
 
