@@ -2,10 +2,10 @@
 
 I'm an indie game development, working on the unity game engine while pursuing BTech CS Engineerer degree with AIML specialization.
 
+<!--
 Here's my stats:
-
 [![YaeshwanthUrumaiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaeshwanthUrumaiya&show_icons=true&theme=tokyonight&count_private=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/YaeshwanthUrumaiya/github-readme-stats))
-
+-->
 An avid coder; Always up for connecting with people! 
 
 Here's my LinkedIn:
