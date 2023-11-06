@@ -12,7 +12,7 @@ I'm a second-year student who likes to work on python based projects and build i
 
 CodeStructures: A Web application to help students learn Data Structures and Algorithms
 
-LanguageOverPhone: A mobile calling application which can translate Speech from one language to another; allowing users to converse even if they don't speak/know the same language.
+LanguageOverPhone: A mobile calling application which can translate Speech from one language to another; allowing users to converse even if they don't speak/know the same language. (In very early development)
 
 ### 📑 Currently Learning:
 
