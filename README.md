@@ -22,11 +22,11 @@ Data Structures, Speech Recognition and Text to Speech Models, OpenCV
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaeshwanthUrumaiya&layout=compact&theme=vision-friendly-dark)
 
 ### 👩🏻‍💻 Project:
-![Most Recent](https://github-readme-stats.vercel.app/api/pin/?username=YaeshwanthUrumaiya&repo=CodeStructures&theme=vision-friendly-dark&show_owner=false)
+![Most Recent](https://github-readme-stats.vercel.app/api/pin/?username=YaeshwanthUrumaiya&repo=CodeStructures&theme=vision-friendly-dark)
 
 
 ### 📈 GitHub Stats
-[![YaeshwanthUrumaiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaeshwanthUrumaiya&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs,contribs)](https://github.com/YaeshwanthUrumaiya/github-readme-stats)
+[![YaeshwanthUrumaiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaeshwanthUrumaiya&show_icons=true&theme=vision-friendly-dark&count_private=true&hide=issues,prs,contribs)](https://github.com/YaeshwanthUrumaiya/github-readme-stats)
 
 
 ## 📫 How to reach me
