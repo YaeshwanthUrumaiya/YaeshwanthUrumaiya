@@ -1,26 +1,33 @@
 ### Hi there 👋
 
-I'm an indie game development, working on the unity game engine while pursuing BTech CS Engineerer degree with AIML specialization.
+I'm Yaeshwanth Urumaiya, a passionate Pythonic Programmer who's pursuing a BTech in Computer Science Engineering with a specialization in Artificial Intelligence and Machine Learning! I have a keen interest in Machine Learning and Deep Learning, and I take up projects to learn the ways of an AI engineer 🐼.
 
-<!--
-Here's my stats:
-[![YaeshwanthUrumaiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaeshwanthUrumaiya&show_icons=true&theme=tokyonight&count_private=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/YaeshwanthUrumaiya/github-readme-stats))
--->
-An avid coder; Always up for connecting with people! 
+Always up for connecting with people! 
 
-Here's my LinkedIn:
+### 👩🏻‍💻 About Me
 
-https://www.linkedin.com/in/yaeshwanth-urumaiya-323850260/
-<!--
-**YaeshwanthUrumaiya/YaeshwanthUrumaiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year student who likes to work on python based projects and build indie games in Unity (C#). I'm always eager to learn and apply the latest technologies in AI and ML.
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩🏻‍💻 Current Projects:
+
+CodeStructures: A Web application to help students learn Data Structures and Algorithms
+
+LanguageOverPhone: A mobile calling application which can translate Speech from one language to another; allowing users to converse even if they don't speak/know the same language.
+
+### 📑 Currently Learning:
+
+Data Structures, Speech Recognition and Text to Speech Models, OpenCV
+
+### 🛠 Skills
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaeshwanthUrumaiya&layout=compact&theme=vision-friendly-dark)
+
+### 👩🏻‍💻 Projects: 
+![Most Recent](https://github-readme-stats.vercel.app/api/pin/?username=YaeshwanthUrumaiya&repo=CodeStructures&theme=vision-friendly-dark)
+
+### 📈 GitHub Stats
+[![YaeshwanthUrumaiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaeshwanthUrumaiya&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/YaeshwanthUrumaiya/github-readme-stats)
+
+## 📫 How to reach me
+ You can reach me through the following platforms:
+ - LinkedIn: [Yaeshwanth Urumaiya](https://www.linkedin.com/in/yaeshwanth-urumaiya-323850260/)
+ - Email: [Outlook](mailto:yaeshwanthurumaiya@outlook.com)
