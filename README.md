@@ -16,7 +16,7 @@ LanguageOverPhone: A mobile calling application which can translate Speech from 
 
 ### 📑 Currently Learning:
 
-Data Structures, Speech Recognition and Text to Speech Models, OpenCV
+Data Structures, Speech Recognition and Text to Speech Models, OpenCV and MediaPipe
 
 ### 🛠 Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaeshwanthUrumaiya&layout=compact&theme=vision-friendly-dark)
