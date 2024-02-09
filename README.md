@@ -10,7 +10,7 @@ I'm a second-year student who likes to work on python based projects and build i
 
 ### 👩🏻‍💻 Current Projects:
 
-AnywhereBrallie: A Machine Learning application which is paired with a custom built brallie display and glasses; allowing blind individuals to take glance at any book/document (even ebooks and pdfs) and turn it's text into brallie/audio. Working on Image captioning as well; giving beautiful descriptions of the world that they can't experience.
+Minpaarvai: (FINALIST IN THE HACKATHON AT KANI TAMIL'24 INTERNATIONAL CONFERENCE) A Machine Learning application which is paired with a custom built brallie display which is cost effective; allowing blind individuals to take any book/document (even ebooks and pdfs) and turn it's text into brallie/audio. Working on Images as well using OCR; allowing blind people to read anything, anywhere.
 
 GamifiedHandRehab: Utilizing Mediapipe and Unity, this application aims to build motion-as-movement games which allows patients to combine thier rehab exercises with video game sessions.
 
