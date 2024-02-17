@@ -10,8 +10,6 @@ I'm a second-year student who likes to work on python based projects and build i
 
 ### 👩🏻‍💻 Current Projects:
 
-Minpaarvai: (FINALIST IN THE HACKATHON AT KANI TAMIL'24 INTERNATIONAL CONFERENCE) A Machine Learning application which is paired with a custom built brallie display which is cost effective; allowing blind individuals to take any book/document (even ebooks and pdfs) and turn it's text into brallie/audio. Working on Images as well using OCR; allowing blind people to read anything, anywhere.
-
 GamifiedHandRehab: Utilizing Mediapipe and Unity, this application aims to build motion-as-movement games which allows patients to combine thier rehab exercises with video game sessions.
 
 CodeStructures: A Web application to help students learn Data Structures and Algorithms (On Pause)
@@ -20,7 +18,7 @@ LanguageOverPhone: A mobile calling application which can translate Speech from 
 
 ### 📑 Currently Learning:
 
-Transformers, Data Structures, Speech Recognition and Text to Speech Models, Computer Vision and MediaPipe
+Transformers, Computer Vision and MediaPipe
 
 ### 🛠 Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaeshwanthUrumaiya&layout=compact&theme=vision-friendly-dark)
