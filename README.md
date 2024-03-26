@@ -10,7 +10,9 @@ I'm a second-year student who likes to work on python based projects and build i
 
 ### 👩🏻‍💻 Current Projects:
 
-GamifiedHandRehab: Utilizing Mediapipe and Unity, this application aims to build motion-as-movement games which allows patients to combine thier rehab exercises with video game sessions.
+Small Scale Automation of Highway Driving: A Computer Vision Application, which is a POC of a Hands-Free Driving Experience (Currently ongoing) 
+
+GamifiedHandRehab: Utilizing Mediapipe and Unity, this application aims to build motion-as-movement games which allows patients to combine thier rehab exercises with video game sessions. (On Pause)
 
 CodeStructures: A Web application to help students learn Data Structures and Algorithms (On Pause)
 
