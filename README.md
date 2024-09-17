@@ -6,17 +6,11 @@ Always up for connecting with people!
 
 ### 👩🏻‍💻 About Me
 
-I'm a second-year student who likes to work on python based projects and build indie games in Unity (C#). I'm always eager to learn and apply the latest technologies in AI and ML.
+I'm a third-year student who likes to work on python based projects and build indie games in Unity (C#). I'm always eager to learn and apply the latest technologies in AI and ML.
 
 ### 👩🏻‍💻 Current Projects:
 
-Small Scale Automation of Highway Driving: A Computer Vision Application, which is a POC of a Hands-Free Driving Experience (Currently ongoing) 
-
-GamifiedHandRehab: Utilizing Mediapipe and Unity, this application aims to build motion-as-movement games which allows patients to combine thier rehab exercises with video game sessions. (On Pause)
-
-CodeStructures: A Web application to help students learn Data Structures and Algorithms (On Pause)
-
-LanguageOverPhone: A mobile calling application which can translate Speech from one language to another; allowing users to converse even if they don't speak/know the same language. (In very early development)
+CodeStructures: A Web application to help students learn Data Structures and Algorithms (Currently Ongoing)
 
 ### 📑 Currently Learning:
 
