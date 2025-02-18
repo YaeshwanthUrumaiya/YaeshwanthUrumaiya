@@ -11,12 +11,15 @@ I'm a third-year student who likes to work on python based projects and build in
 ### 👩🏻‍💻 Current Projects:
 
 AutoDrive: An automatic lane assist software for hands-free driving. Building it in a simulation enviroment to test the project. (Currently Ongoing.)
+
 CodeStructures: A Web application to help students learn Data Structures and Algorithms. (Currently Ongoing.)
 
-### Projects Not In Git: 
+### 👩🏻‍💻 Projects Not In Git: 
 
 Early Collosion Detection: An automatic braking system for cars, meant to prediect objects and their trajectory to calcuate if in case the user's car is about to hit the object. 
-Link: ![LinkedIn Post](https://www.linkedin.com/posts/yaeshwanth-urumaiya_earlycollisiondetection-automation-autonomousdriving-activity-7187398479332216832-R_p9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEAydssB1eJtxUBUBYTSnqQzpjszRjkvAN8)
+
+Link: [LinkedIn Post](https://www.linkedin.com/posts/yaeshwanth-urumaiya_earlycollisiondetection-automation-autonomousdriving-activity-7187398479332216832-R_p9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEAydssB1eJtxUBUBYTSnqQzpjszRjkvAN8)
+
 Reason for not in git: Planning on a research paper on this project!
 
 ### 📑 Currently Learning:
